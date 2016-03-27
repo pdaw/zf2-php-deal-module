@@ -3,6 +3,12 @@ Zend Framework 2 module for [php-deal library](https://github.com/lisachenko/php
 Installation
 ------------
 
+Composer
+
+```
+composer require pdaw/zf2-php-deal-module
+```
+
 Load module in zend application config
 
 ```

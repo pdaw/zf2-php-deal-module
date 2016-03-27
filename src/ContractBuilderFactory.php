@@ -4,7 +4,7 @@ namespace PhpDealModule;
 
 use Zend\ServiceManager\FactoryInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
-use Common\PhpDealModule\ContractBuilder as Model;
+use PhpDealModule\ContractBuilder as Model;
 
 class ContractBuilderFactory implements FactoryInterface
 {

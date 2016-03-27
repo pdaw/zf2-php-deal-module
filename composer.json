@@ -8,9 +8,10 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
-    "zendframework/zendframework": "^2.5",
-    "lisachenko/php-deal": "^0.3.0"
+      "php": ">=5.5",
+      "zendframework/zend-servicemanager": "~2.3",
+      "zendframework/zend-eventmanager": "~2.3",
+      "lisachenko/php-deal": "^0.3.0"
   },
   "autoload": {
     "psr-4": {
