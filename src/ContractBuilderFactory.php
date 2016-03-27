@@ -1,6 +1,6 @@
 <?php
 
-namespace Common\PhpDealModule;
+namespace PhpDealModule;
 
 use Zend\ServiceManager\FactoryInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;

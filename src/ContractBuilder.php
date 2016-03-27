@@ -1,6 +1,6 @@
 <?php
 
-namespace Common\PhpDealModule;
+namespace PhpDealModule;
 
 use PhpDeal\ContractApplication;
 

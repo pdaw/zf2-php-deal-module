@@ -1,6 +1,6 @@
 <?php
 
-namespace Common\PhpDealModule;
+namespace PhpDealModule;
 
 use Zend\EventManager\EventInterface as Event;
 use Zend\ServiceManager\ServiceManager;
