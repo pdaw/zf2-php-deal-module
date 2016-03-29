@@ -25,7 +25,7 @@ Feel free to change default configuration
 ],
 ```
 
-where $basicDirectory is APPLICATION_PATH 
+where $basicDirectory is [APPLICATION_PATH](https://github.com/pdaw/zf2-php-deal-module/blob/master/config/module.config.php#L3) 
 
 [Usage](https://github.com/lisachenko/php-deal/blob/master/README.md)
 -----
