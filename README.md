@@ -1,6 +1,7 @@
 Zend Framework 2 module for [php-deal library](https://github.com/lisachenko/php-deal).
 
 [![Total Downloads](https://poser.pugx.org/pdaw/zf2-php-deal-module/downloads)](https://packagist.org/packages/pdaw/zf2-php-deal-module)
+[![Build Status](https://travis-ci.org/pdaw/zf2-php-deal-module.svg?branch=master)](https://travis-ci.org/pdaw/zf2-php-deal-module)
 
 Installation
 ------------
