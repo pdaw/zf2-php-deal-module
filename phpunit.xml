@@ -1,0 +1,20 @@
+<phpunit bootstrap="tests/unit/Bootstrap.php"
+         backupStaticAttributes="false"
+         backupGlobals="false"
+         colors="true"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         verbose="true">
+
+    <testsuites>
+        <testsuite name="main">
+            <directory>./tests/unit/</directory>
+        </testsuite>
+    </testsuites>
+
+</phpunit>
