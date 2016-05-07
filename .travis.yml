@@ -7,6 +7,6 @@ php:
     - '5.5'
 
 script:
-    - ./bin/phpunit --no-coverage
+    - phpunit
 
 sudo: false
